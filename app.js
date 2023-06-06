@@ -15,4 +15,18 @@ $(document).ready(() => {
     favFoods.forEach(food => {
         favoriteFoods.after($("<div></div>").text(food));
     })
+
+    const favs = [
+        { food: 'pizza', color: 'green' },
+        { food: 'falafel', color: 'yellow' },
+        { food: 'bolani', color: 'red' },
+        { food: 'hot dog', color: 'orange' },
+    ]
+
+    favs.forEach(obj => {
+        let favFood = $('<div></div>')
+        .text(obj.favFood)
+        .css('background-color', 'red',obj.color );
+        favoriteFoods.after(favFood)
+    })
 })
