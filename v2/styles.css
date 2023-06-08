@@ -1,0 +1,51 @@
+
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#pizza-food-counter {
+    background-image: url(https://www.createkidsclub.com/wp-content/uploads/2021/05/sheet-pan-pizza-04-500x500.jpg);
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 5%;
+    font-style:italic;
+    
+}
+
+#tacos-food-counter {
+    background-image: url(https://images.themodernproper.com/billowy-turkey/production/posts/2022/Carne-Asada-Tacos-4.jpg?w=960&h=540&q=82&fm=jpg&fit=crop&dm=1663880555&s=f17fed80c37f9fce63754c83504ce975);
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 5%;
+    font-style:italic;
+}
+
+#biryani-food-counter {
+    background-image: url("https://www.thespruceeats.com/thmb/XDBL9gA6A6nYWUdsRZ3QwH084rk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/SES-chicken-biryani-recipe-7367850-hero-A-ed211926bb0e4ca1be510695c15ce111.jpg");
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 5%;
+    font-style:italic;
+}
+
+#kabob-food-counter {
+    background-image: url("https://www.allrecipes.com/thmb/daY7n4034UjDm1RuY0PumrB0VrA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8311228-63ac64ffac8d402f866c2228d243b49f.jpg");
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 5%;
+    font-style:italic;
+}
+
+#manto-food-counter {
+    background-image: url("https://www.afghanyummyfood.com/wp-content/uploads/2022/05/Manto-recipe-wraps.png");
+    height: 500px;
+    width: 600px;
+    border: none;
+    border-radius: 5%;
+    font-style:italic;
+}
